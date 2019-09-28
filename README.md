@@ -46,8 +46,9 @@ As an avid climber, this project was born from passion. Whenever I'd make outdoo
 
 1. Clone this repo.
 2. Make sure Docker daemon is running on your machine. 
-3. ```Test```
-4. run "python app.py" in your terminal
+3. In terminal, type: ```$ docker build -t route_scout .```
+4. In terminal, type: ```$ docker run -p 8050:8050 route_scout```
+5. Copy and paste ```http://0.0.0.0:8050/``` into browser.
 
 ## For more detail and discussion:
 * [Blog Post](https://pjourgensen.github.io/routescout.html)
