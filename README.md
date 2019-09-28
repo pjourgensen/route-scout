@@ -44,9 +44,9 @@ As an avid climber, this project was born from passion. Whenever I'd make outdoo
 
 ## Running the app locally
 
-1. Create a virtual environment on your machine.
-2. Clone this repo.  
-3. Pip install the requirements file.
+1. Clone this repo.
+2. Make sure Docker daemon is running on your machine. 
+3. ```Test```
 4. run "python app.py" in your terminal
 
 ## For more detail and discussion:
